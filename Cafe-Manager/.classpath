@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="library/jlayer1.0.1/JLayer1.0.1/src"/>
+	<classpathentry kind="src" path="library/jlayer1.0.1/JLayer1.0.1/srctest"/>
+	<classpathentry kind="src" path="library/mysql-connector-java-8.0.20/src/build/java"/>
+	<classpathentry kind="src" path="library/mysql-connector-java-8.0.20/src/demo/java"/>
+	<classpathentry kind="src" path="library/mysql-connector-java-8.0.20/src/generated/java"/>
+	<classpathentry kind="src" path="library/mysql-connector-java-8.0.20/src/legacy/java"/>
+	<classpathentry kind="src" path="library/mysql-connector-java-8.0.20/src/main/core-api/java"/>
+	<classpathentry kind="src" path="library/mysql-connector-java-8.0.20/src/main/core-impl/java"/>
+	<classpathentry kind="src" path="library/mysql-connector-java-8.0.20/src/main/protocol-impl/java"/>
+	<classpathentry kind="src" path="library/mysql-connector-java-8.0.20/src/main/user-api/java"/>
+	<classpathentry kind="src" path="library/mysql-connector-java-8.0.20/src/main/user-impl/java"/>
+	<classpathentry kind="src" path="library/mysql-connector-java-8.0.20/src/test/java"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="library/itextpdf-5.5.13.jar"/>
+	<classpathentry kind="lib" path="library/JdateChooser/DateChooser.jar"/>
+	<classpathentry kind="lib" path="library/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="library/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

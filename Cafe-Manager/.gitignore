@@ -1,0 +1,17 @@
+/build/
+*.iml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/libraries/mysql_connector_java_8_0_20.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/vcs.xml
+/dist/
+nbproject/private/private.xml
+*.xml
+library/.DS_Store
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/project.properties
+src/.DS_Store
+/bin/
